@@ -1,0 +1,11 @@
+ELECTION RESULTS
+    
+A Total of 3521001 votes were cast.
+  
+The list of possible candidates are:["O'Tooley", 'Correy', 'Li', 'Khan']
+-------------------------------
+Correy: 704200    20.00%
+O'Tooley: 105630    3.00%
+Li: 492940    14.00%
+Khan: 2218231    63.00%
+WINNER:  Khan
