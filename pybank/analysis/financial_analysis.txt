@@ -1,0 +1,7 @@
+Financial Analysis
+------------------------------------------
+Total Months: 86
+Total Profit: $38382578
+Average Change is: $-2315.1176470588234
+The largest gain in profit was: $1926159 in Feb-2012
+The biggest loss was: $-2196167 in Sep-2013
